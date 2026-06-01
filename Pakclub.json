@@ -1,0 +1,14 @@
+{
+  "matching_urls": ["https://pakclub.email/wingo"],
+  "deposit_url": "https://pakclub.email/wallet/recharge",
+  "login_url": "https://pakclub.email/login",
+  "register_url": "https://pakclub.email/register",
+  "telegram_url": "https://whatsapp.com/channel/0029Vb7Cz9wIXnlofMR6G92y",
+  "home_url": "https://pakclub.email/",
+  "minimum_deposit": 300,
+  "allowed_numbers": ["8130525287"],
+  "audio_deposit": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/bigsmall.mp3",
+  "audio_login": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/login.mp3",
+  "audio_register": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/register.mp3",
+  "audio_number": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/deposit300.mp3"
+}
